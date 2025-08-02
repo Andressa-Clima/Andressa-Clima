@@ -44,15 +44,14 @@
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andressa-Clima&theme=tokyonight"
-  />
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andressa-Clima&theme=tokyonight"/>
   <br>
   <br>
   <img
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=Andressa-Clima&theme=blue-navy&border_radius=1&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+    src="https://github-readme-streak-stats.herokuapp.com?user=Andressa-Clima&theme=blue-navy&border_radius=4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
   </div>
 
 <div align="center" style="display: inline_block"><br>
