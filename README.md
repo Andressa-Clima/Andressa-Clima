@@ -1,6 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=40a1d5"/>
 
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&letterSpacing=&pause=1000&center=true&width=424&height=69&lines=Ol%C3%A1!+Sou+Andressa;estudante+de+ADS" alt="Typing SVG" /></a>
+</div>
 
+<br>
 
 <div align="center">
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAndressa-Clima%2FAndressa-Clima&s=16&c=00b3ff&bg=00000000&no=2&ff=digi&tb=Profile+visits%3A+&ta=" alt="visits">
