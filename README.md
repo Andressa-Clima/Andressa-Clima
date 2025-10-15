@@ -9,18 +9,6 @@
 <div align="center">
   <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAndressa-Clima%2FAndressa-Clima&s=16&c=00b3ff&bg=00000000&no=2&ff=digi&tb=Profile+visits%3A+&ta=" alt="visits">
 </div>
-
-##
-
-<br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Andressa-Clima&abbreviated=true&style=flat-square&color=755b25" /></p> 
-</div>
-
-<br>
-<br>
-<br>
       
 <div align="center">
 </div>
