@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=40a1d5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=E94BFF"/>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&letterSpacing=&pause=1000&center=true&width=424&height=69&lines=Ol%C3%A1!+Sou+Andressa;estudante+de+ADS" alt="Typing SVG" /></a>
@@ -6,8 +6,10 @@
 
 <br>
 
+<br>
+
 <div align="center">
-    <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAndressa-Clima%2FAndressa-Clima&s=16&c=00b3ff&bg=00000000&no=2&ff=digi&tb=Profile+visits%3A+&ta=" alt="visits">
+  <img align="center" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHMydWR4dXByemczYWY2NzFmdzhqMnAyZGVzNjV0d25hcDMxdXc5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" />
 </div>
       
 <div align="center">
@@ -94,4 +96,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40a1d5&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E94BFF&height=100&section=footer"/>
